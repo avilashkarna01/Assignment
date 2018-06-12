@@ -1,0 +1,8 @@
+1.Git config --global user.name " "
+2.Git config --global user.email " "
+3.Git add .
+4. Git status
+5.git commit -m"comment"
+6.Git log
+7.git remote add orgin "link"
+8.git push orgin master
